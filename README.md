@@ -61,9 +61,12 @@ flutter run
 
 The app will launch on your device, providing an interface to watch Unity ads and earn rewards.
 
-## Contributing
+## Troubleshooting and Contributing
 
-Contributions are welcome! If you encounter bugs or have suggestions for improvements, please submit an issue or a pull request.
+Encountering issues or want to contribute to the project? Here's how you can get help or contribute:
+
+- **Issues:** If you encounter bugs or have suggestions for improvements, please submit an [issue](https://github.com/yourusername/flutter_ad_player_app/issues).
+- **Pull Requests:** If you'd like to contribute directly, feel free to fork the repository, make your changes, and submit a [pull request](https://github.com/yourusername/flutter_ad_player_app/pulls).
 
 ## License
 
@@ -73,5 +76,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This app streamlines the process of integrating Unity ads into Flutter apps.
 - Thanks to the Flutter and Unity Ads communities for their support and resources.
-
----
