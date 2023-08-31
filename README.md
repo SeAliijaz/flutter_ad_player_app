@@ -1,4 +1,4 @@
-# Flutter Ad Player App
+# flutter_ad_player_app
 
 The Flutter Ad Player App is a mobile application developed using the Flutter framework, designed to seamlessly integrate and display ads within the app using the Unity Ads platform. This app provides a user-friendly interface for playing Unity ads and earning rewards.
 
