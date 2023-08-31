@@ -1,4 +1,4 @@
-# Flutter Ad Player App Documentation
+# Flutter Ad Player App
 
 Welcome to the official documentation for the **Flutter Ad Player App**. This Flutter project serves as a powerful foundation for creating a media player app integrated with advertisements. Below, you will find all the essential information to understand, set up, and extend the project according to your requirements.
 
